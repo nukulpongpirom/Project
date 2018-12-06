@@ -1,0 +1,20 @@
+C:\Users\user\AppData\Local\Temporary Projects\ProjectVB\bin\Debug\ProjectVB.exe
+C:\Users\user\AppData\Local\Temporary Projects\ProjectVB\bin\Debug\ProjectVB.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ProjectVB\bin\Debug\ProjectVB.xml
+C:\Users\user\AppData\Local\Temporary Projects\ProjectVB\obj\x86\Debug\ProjectVB.frmlab1.resources
+C:\Users\user\AppData\Local\Temporary Projects\ProjectVB\obj\x86\Debug\ProjectVB.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\ProjectVB\obj\x86\Debug\ProjectVB.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\ProjectVB\obj\x86\Debug\ProjectVB.exe
+C:\Users\user\AppData\Local\Temporary Projects\ProjectVB\obj\x86\Debug\ProjectVB.xml
+C:\Users\user\AppData\Local\Temporary Projects\ProjectVB\obj\x86\Debug\ProjectVB.pdb
+D:\NUKULVB\ProjectVB\ProjectVB\obj\x86\Debug\ProjectVB.exe
+D:\NUKULVB\ProjectVB\ProjectVB\obj\x86\Debug\ProjectVB.xml
+D:\NUKULVB\ProjectVB\ProjectVB\obj\x86\Debug\ProjectVB.pdb
+D:\NUKULVB\ProjectVB\ProjectVB\bin\Debug\ProjectVB.exe
+D:\NUKULVB\ProjectVB\ProjectVB\bin\Debug\ProjectVB.pdb
+D:\NUKULVB\ProjectVB\ProjectVB\bin\Debug\ProjectVB.xml
+D:\NUKULVB\ProjectVB\ProjectVB\obj\x86\Debug\ProjectVB.frm1.resources
+D:\NUKULVB\ProjectVB\ProjectVB\obj\x86\Debug\ProjectVB.frmlab1.resources
+D:\NUKULVB\ProjectVB\ProjectVB\obj\x86\Debug\ProjectVB.Resources.resources
+D:\NUKULVB\ProjectVB\ProjectVB\obj\x86\Debug\ProjectVB.vbproj.GenerateResource.Cache
+D:\NUKULVB\ProjectVB\ProjectVB\obj\x86\Debug\ProjectVB.frmlab2.resources
